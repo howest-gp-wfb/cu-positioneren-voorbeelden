@@ -1,0 +1,18 @@
+
+  
+  #article01 {
+      position: relative;
+      top:-50px;
+      left:50px;
+  }
+  
+  #article03 {
+    position: relative;
+    bottom:-50px;
+    right:50px;
+    /*Onder andere elementen schuiven via z-index */
+    z-index: -1;
+  }
+
+
+  
